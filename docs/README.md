@@ -1,3 +1,3 @@
 # Notes de cours
 
-> Cadeau.,
+> Cadeau.
