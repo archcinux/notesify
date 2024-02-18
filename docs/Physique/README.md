@@ -48,6 +48,7 @@ A = 5 $m²$ ; $V$ = 50 $m³$ ; $TR=0.16 \cdot \frac{50}{5}$ = 1.6 $s$.
 
 ## Loi d’Eyring
 $$T=0.16\cdot \frac{V}{{-S\cdot ln(-\alpha)}}$$
+
 # acoustique architecturale phy
 ## Intensité réverbérée
 En chaque point du local, l’intensité sonore globale I est la somme de deux intensités sonores :
