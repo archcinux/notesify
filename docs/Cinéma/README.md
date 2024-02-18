@@ -164,6 +164,23 @@
 - rédiger pendant 2h
 
 ---
+
+# Optique et *camera obscura*
+
+*Caméra obscura* => principe physique.
+## **Histoire de la *camera obscura*:
+- $IV^{ième}$ s : $1^{ières}$ mentions chez *Aristote & Mozi*. 
+- $XI^{ième}$ s : *Ibn Al Haytham* a établi un modèle complet.
+- $XIII^{ième}$ s : *Roger Bacon* travaille sur la *caméra obscura & Alhazen*.
+- $XVI^{ième}$ s: *Da Vinci* démontre l’analogie *œil-caméra obscura*. 
+## **Amélioration de la camera obscura :
+- ***1568*** : Daniel Barbaro ajoute une lentille et un diaphragme à la *camera obscura*.
+## **Les peintres et la *camera obscura*:
+- Italiens des $XVII^{e}$ et $XVIII^{e}$ (*Caravage, Vanvitelli, Zucarelli, Canaletto, Bellotto…*).
+- Hollandais du $XVII^{e}$ (*Vermeer de Delft, Hoogstraten…*).
+
+---
+
 # Références
 1. *Francis Vanoye & Anne Goliot-Lété*, ***Précis d’analyse filmique***.
 2. *Raymond Bellour*, ***L’analyse filmique***.
