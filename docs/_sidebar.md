@@ -1,7 +1,7 @@
 * [Accueil](/)
 * [Physique](Physique/README.md)
 * [TES]()
-* [Cinéma]()
+* [Cinéma](Cinéma/README.md)
 * [Littérature]()
 * [Histoire de l'art]()
 * [EEJV]()
