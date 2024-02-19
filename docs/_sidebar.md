@@ -1,6 +1,6 @@
 * [Accueil](/)
 * [Physique](Physique/README.md)
-* [TES]()
+* [TES](liaisonsschéma.md)
 * [Cinéma](Cinéma/README.md)
 * [Littérature]()
 * [Histoire de l'art]()
